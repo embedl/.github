@@ -163,5 +163,5 @@ Embedl for full SDK access and support.
 Gamla Almedalsvägen 39  
 412 63 Gothenburg, Sweden  
 
-📧 **Email:** info@embedl.com
+**Email:** info@embedl.com
 
