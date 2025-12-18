@@ -77,9 +77,8 @@ supported by the [embedl-models](https://github.com/embedl/embedl-models) packag
   - Quantization  
   - Flash Attention  
   - Other standard optimizations
-  - 
 
-| Device: Nvidia Jetson Thor                       |                             |
+Device: Nvidia Jetson Thor                       
 | Model                                            | Generation speed (tokens/s) |
 | ------------------------------------------------ | ----------------------------|
 | embedl/Llama-3.2-3B-Instruct-FlashHead-W4A16     | 100                         |
