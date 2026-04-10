@@ -31,7 +31,7 @@ Let teams compile and verify models for embedded devices together, with full tra
 ### **Embedl Models** ([Community](https://huggingface.co/embedl))
 
 Pre-optimized models that can be used **off-the-shelf** or customized for specific hardware target
-supported by the [embedl-models](https://github.com/embedl/embedl-models) package.
+supported by the [flash-head](https://github.com/embedl/flash-head) package.
 
 ---
 
@@ -89,7 +89,7 @@ Embedl for full SDK access and support.
 ## Contact
 
 **Headquarters (Sweden)**  
-Gamla Almedalsvägen 39  
+Gamla Almedalsvägen 21  
 412 63 Gothenburg, Sweden  
 
 **Email:** info@embedl.com
